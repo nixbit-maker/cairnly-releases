@@ -1,2 +1,7 @@
-# cairnly-releases
-Installers and update files for Cairnly, a Windows app for NDIS and aged care support coordination. Releases only; no source code.
+# Cairnly releases
+
+Windows installers for Cairnly. Download the latest `Cairnly-Setup-<version>.exe`
+from [Releases](../../releases).
+
+Installed copies of Cairnly update themselves from this page automatically.
+This repository holds release files only.
